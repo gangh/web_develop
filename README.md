@@ -1,8 +1,11 @@
+# 购书 源码备份  
+@mozillazg 推荐的书,其中一些对于 python web 架构的部分值得练习
+
 # Python Web开发实战
 
 《Python Web开发实战》这本书的源代码项目
 
-@mozillazg 推荐的书,其中一些对于 python web 架构的部分值得练习
+
 ### 购买链接
 
 1. [京东](http://item.jd.com/11966737.html)
